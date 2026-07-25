@@ -12,5 +12,3 @@ ghghg
 hgyg
 nih
 bhgh
-bu
-
