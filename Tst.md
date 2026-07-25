@@ -8,5 +8,3 @@ nunuh
 ghg
 hg
 vhgh
-ghghg
-hgyg
