@@ -10,8 +10,6 @@ it is possible
 > mimi
 > gvg
 > jnun
-> uhuh
->
 > njn
 >  jnj
 > jnuh
