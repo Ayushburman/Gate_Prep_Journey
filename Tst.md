@@ -9,6 +9,7 @@ it is possible
 > juju
 > mimi
 > gvg
+> jmim
 > jnun
 > uhuh
 >
