@@ -4,3 +4,4 @@ frankly not possible
 but possible if you are practical
 it is possible
 >work smartly
+>Use best resources
