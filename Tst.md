@@ -6,6 +6,7 @@ it is possible
 > work smartly
 
 > Use best resources
+> juju
 > mimi
 > gvg
 > jnun
