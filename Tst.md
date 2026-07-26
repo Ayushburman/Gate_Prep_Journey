@@ -15,8 +15,6 @@ it is possible
 > jnuh
 gvf
 bhbhbu
-bhgyg
-byb
 ftgtgo
 > jbun
 >  
