@@ -13,9 +13,7 @@ it is possible
 > jnun
 > uhuh
 >
-> njnu
-njn
-> jnh
+> njn
 >  jnj
 > jnuh
 > 
