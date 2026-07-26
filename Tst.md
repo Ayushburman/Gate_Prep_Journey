@@ -22,7 +22,3 @@ jnun
 ggtg
 gvgg
 bygy
-unus
-><7[
->nun
->Unuuh
