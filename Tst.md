@@ -8,6 +8,7 @@ it is possible
 > Use best resources
 > mimi
 > gvg
+> jnun
 > uhuh
 >
 > njnu
