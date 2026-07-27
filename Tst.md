@@ -12,7 +12,6 @@ gftf
 > gvg
 > jnun
 > bhbhg
-> jnuh
 gvf
 bhbhbu
 >hvhg
