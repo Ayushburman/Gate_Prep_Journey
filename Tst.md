@@ -16,3 +16,5 @@ it is possible
 > Hardest here means important and critical subject like Discrete Math and TOC
 
 > end syllabus in 4 monrhs
+
+> start praticing for 2 months 
