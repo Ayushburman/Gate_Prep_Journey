@@ -6,3 +6,4 @@ it is possible
 > sequence wise subject
 > 
 > Time Table
+> Start with hardest
