@@ -24,6 +24,3 @@ jnun
 ggtg
 gvgg
 bygy
-gyguw
-huha
-hnj
