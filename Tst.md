@@ -8,4 +8,3 @@ gftf
 > Use best res
 > mimi
 > hvhg
-> gvg
