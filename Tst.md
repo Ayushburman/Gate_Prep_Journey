@@ -6,4 +6,3 @@ it is possible
 > work smartly
 gftf
 > Use best res
-> mimi
