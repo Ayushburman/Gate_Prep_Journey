@@ -5,8 +5,7 @@ but possible if you are practical
 it is possible
 > work smartly
 gftf
-> Use best resources
-> juju
+> Use best res
 > mimi
 > hvhg
 > gvg
