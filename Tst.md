@@ -8,6 +8,7 @@ it is possible
 > Use best resources
 > juju
 > mimi
+> hvhg
 > gvg
 > jnun
 > njn
