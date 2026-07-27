@@ -22,5 +22,3 @@ gvyg
 > gvhg
 jnun
 ggtg
-gvgg
-bygy
