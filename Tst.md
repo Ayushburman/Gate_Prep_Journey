@@ -1,6 +1,6 @@
 6 month strategy
 hhuh
-frankly not possible 
+frankl
 but possible if you are practical
 it is possible
 > work smartly
