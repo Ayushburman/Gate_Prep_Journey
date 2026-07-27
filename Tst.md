@@ -8,6 +8,7 @@ it is possible
 > Time Table
 
 > Start with hardest
+
 > end wigh easiest
 > Repeat hardest the most
 > Hardest here means important and critical subject like Discrete Math and TOC
