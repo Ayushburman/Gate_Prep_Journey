@@ -14,3 +14,5 @@ it is possible
 > Repeat hardest the most
 
 > Hardest here means important and critical subject like Discrete Math and TOC
+
+> end syllabus in 4 monrhs
