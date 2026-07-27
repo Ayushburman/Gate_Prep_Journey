@@ -1,5 +1,5 @@
 6 month strategy
-
+hhuh
 frankly not possible 
 but possible if you are practical
 it is possible
