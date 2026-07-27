@@ -7,3 +7,4 @@ it is possible
 > 
 > Time Table
 > Start with hardest
+> end wigh easiest
