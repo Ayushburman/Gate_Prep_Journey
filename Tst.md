@@ -26,7 +26,6 @@ gygy
 bhguh
 nuhuh
 b(buh
-jhhu
 gugy
 tcctf
 vgfy
