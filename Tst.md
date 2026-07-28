@@ -19,7 +19,6 @@ it is possible
 > start praticing for 2 months 
 
 > abcd
-> cdgd
 > dgf
 > tdtf
 
