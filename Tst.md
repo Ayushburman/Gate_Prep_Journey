@@ -23,7 +23,4 @@ it is possible
 > 
 
 > fdtd
-
-> ddfd
-
 > ddrddr
