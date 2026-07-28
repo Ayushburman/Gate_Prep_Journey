@@ -19,8 +19,7 @@ it is possible
 > start praticing for 2 months 
 
 
-ftfy
- hbhb
+
 gygy
 bhguh
 nuhuh
