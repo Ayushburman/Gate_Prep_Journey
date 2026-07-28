@@ -21,7 +21,6 @@ it is possible
 > abcd
 
 > cdgdd
-
 > 
 > dgf
 > 
