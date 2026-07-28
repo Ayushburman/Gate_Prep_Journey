@@ -31,5 +31,3 @@ tcctf
 vgfy
 tft
 bhuhuh
-bbugunjbuh
-njhjh
