@@ -24,7 +24,6 @@ gygy
 bhguh
 nuhuh
 b(buh
-gugy
 tcctf
 vgfy
 tft
