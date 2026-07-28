@@ -20,7 +20,6 @@ it is possible
 
 > abcd
 > dgf
-> tdtf
 
 > 
 
