@@ -2,50 +2,7 @@
     
     
      
-        <
-        <div class="phase-month">Oct 2026</div>
-        <div class="phase-title">TOC + Compiler Design + Digital Logic</div>
-        <div class="phase-desc">Tier B/C subjects cleared in one sweep while Tier A subjects shift to a weekly maintenance pass (problem sets, not fresh reading). This is also when Computer Networks gets its first full pass.</div>
-        <div class="phase-meta"><span><b>Mocks:</b> 1 sectional / week + 2 full-length</span><span><b>Output:</b> full syllabus "first pass" complete</span></div>
-      </div>
-    </div>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div><div class="phase-line"></div></div>
-      <div class="phase-body">
-        <div class="phase-month">Nov 2026</div>
-        <div class="phase-title">Full-syllabus problem-solving phase</div>
-        <div class="phase-desc">No new topics after the first week. Every subject gets subject-wise PYQs (last 10–15 years) end to end. This is where speed and accuracy separate from "I understand the concept."</div>
-        <div class="phase-meta"><span><b>Mocks:</b> 1 full-length / week</span><span><b>Output:</b> PYQ accuracy tracked per subject</span></div>
-      </div>
-    </div>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div><div class="phase-line"></div></div>
-      <div class="phase-body">
-        <div class="phase-month">Dec 2026</div>
-        <div class="phase-title">Second revision cycle + mock intensification</div>
-        <div class="phase-desc">Full syllabus, second pass — condensed, from your own notes only, not textbooks. Mock frequency steps up. GATE application window closes this month — file it and don't let admin tasks eat study days.</div>
-        <div class="phase-meta"><span><b>Mocks:</b> 2 full-length / week</span><span><b>Output:</b> condensed revision sheet per subject</span></div>
-      </div>
-    </div>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div></div>
-      <div class="phase-body">
-        <div class="phase-month">Jan 2027 → Exam</div>
-        <div class="phase-title">Peak mocks, then taper</div>
-        <div class="phase-desc">Weeks 1–3: alternate-day full mocks under strict timing, each followed by a same-day error-log review. Final week before your first session: revision-only from formula sheets and error logs — no new problems, protect sleep and exam-day logistics (admit card, center, timing).</div>
-        <div class="phase-meta"><span><b>Mocks:</b> alternate days → taper to none in final 3 days</span><span><b>Output:</b> exam-ready formula sheet, zero open weak topics</span></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 05 WEEKLY RHYTHM -->
-  <section id="rhythm">
-    <div class="sec-head"><span class="sec-num">05</span><h2>Weekly Rhythm Template</h2></div>
-    <p class="sec-note">The recurring shape each week should take, month to month — the subject in the "deep work" slot changes per phase above, this structure doesn't.</p>
-    <div class="week-grid">
+       
       <div class="day-card"><div class="day-name">Mon–Fri</div><ul>
         <li>AM: deep-work block, current phase's core subject</li>
         <li>Midday: 30–45 min GA/Maths (parallel track)</li>
