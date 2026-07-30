@@ -1,42 +1,7 @@
 
     
     
-    margin-bottom:20px;}
-  .
-  .phase-line{flex:1; width:1px; background:var(--line); margin-top:4px;}
-  .phase:last-child .phase-line{display:none;}
-  .phase-body{padding:0 0 34px 18px;}
-  .phase-month{font-family:var(--mono); font-size:11px; color:var(--amber); letter-spacing:.1em; text-transform:uppercase;}
-  .phase-title{font-family:var(--sans); font-weight:600; font-size:16px; color:var(--ink); margin:4px 0 8px;}
-  .phase-desc{color:var(--ink-dim); font-size:13.5px; margin-bottom:10px;}
-  .phase-meta{display:flex; gap:18px; flex-wrap:wrap; font-family:var(--mono); font-size:11.5px; color:var(--ink-faint);}
-  .phase-meta b{color:var(--ink-dim); font-weight:500;}
-
-  /* weekly grid */
-  .week-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:10px; margin-top:6px;}
-  .day-card{background:var(--panel-2); border:1px solid var(--line); border-radius:6px; padding:12px;}
-  .day-name{font-family:var(--mono); font-size:11px; color:var(--amber); text-transform:uppercase; letter-spacing:.06em; margin-bottom:8px;}
-  .day-card ul{margin:0; padding-left:16px; font-size:12.5px; color:var(--ink-dim);}
-  .day-card li{margin-bottom:4px;}
-
-  ul.plain{padding-left:18px; margin:0; color:var(--ink-dim); font-size:13.5px;}
-  ul.plain li{margin-bottom:8px;}
-  .callout{
-    border-left:2px solid var(--amber); padding:2px 0 2px 16px; color:var(--ink-dim); font-size:13.5px; margin:16px 0;
-  }
-  .callout b{color:var(--ink);}
-  .two-col{display:grid; grid-template-columns:1fr 1fr; gap:12px;}
-  @media (max-width:640px){.two-col{grid-template-columns:1fr;}}
-
-  footer{margin-top:80px; padding-top:24px; border-top:1px solid var(--line); font-family:var(--mono); font-size:11.5px; color:var(--ink-faint);}
-</style>
-</head>
-<body>
-
-<div class="statusbar">
-  <div class="statusbar-inner">
-    <span><span class="status-dot"></span>GATE CS &amp; IT — 2027 CYCLE</span>
-    <span id="tminus">T-minus — days</span>
+    p
   </div>
 </div>
 
