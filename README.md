@@ -46,6 +46,7 @@
   
   .statusbar{
     position:sticky; top:0; z-index:50;
+    
     background:rgba(10,12,16,0.92); backdrop-filter:blur(8px);
     border-bottom:1px solid var(--line);
   }
