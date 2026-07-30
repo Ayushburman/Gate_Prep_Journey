@@ -1,12 +1,4 @@
-# Gate_Prep_Journey
 
-<!DOCTYPE 
-<
-    --red:#E5605A;
-    --mono:'IBM Plex Mono', ui-monospace, 
-  }
-  .statusbar-inner{
-    max-width:920px; mar
     
     display:flex; align-items:center; justify-content:space-between; gap:16px;
     font-family:var(--mono); font-size:12px; color:var(--ink-dim);
