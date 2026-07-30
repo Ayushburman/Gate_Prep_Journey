@@ -5,8 +5,6 @@ bhgu
 <html lang="en">
 <head>
 
-  ———-
-<meta 
 <title>GATE CSE 2027 — Six-Month Flight Plan</title>
 jguh
 bhguh
