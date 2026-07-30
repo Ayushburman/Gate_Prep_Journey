@@ -20,7 +20,7 @@ bbhgh
   bhbh
     --bg:#0A0C10;
     --panel:#12151C;
-    
+    bhbhh
     --panel-2:#171B23;
     --line:#252B36;
     --ink:#E8EAED;
