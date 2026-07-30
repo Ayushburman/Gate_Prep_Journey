@@ -10,7 +10,7 @@
     position:sticky; top:0; z-
   }
   .statusbar-inner{
-    max-width:920px; margin:0 auto; padding:10px 24px;
+    max-width:920px; margin:0 auto; padding:10
     
     display:flex; align-items:center; justify-content:space-between; gap:16px;
     font-family:var(--mono); font-size:12px; color:var(--ink-dim);
