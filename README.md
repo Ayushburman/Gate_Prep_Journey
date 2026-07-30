@@ -34,6 +34,7 @@
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
   body{
+  
     margin:0; background:var(--bg); color:var(--ink);
     font-family:var(--sans); line-height:1.55; font-size:15px;
     -webkit-font-smoothing:antialiased;
