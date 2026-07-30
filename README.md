@@ -57,6 +57,7 @@
     font-family:var(--mono); font-size:12px; color:var(--ink-dim);
   }
   .status-dot{display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--amber); margin-right:7px; box-shadow:0 0 8px var(--amber); animation:pulse 2s infinite;}
+  
   @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
   #tminus{color:var(--amber); font-weight:600;}
 
