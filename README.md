@@ -3,8 +3,6 @@
 <!DOCTYPE html>
 bhgu
 <html lang="en">
-<head>
-
 <title>GATE CSE 2027 — Six-Month Flight Plan</title>
 jguh
 bhguh
