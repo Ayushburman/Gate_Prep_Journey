@@ -2,27 +2,7 @@
     
     
     p
-  </div>
-</div>
-
-<div class="wrap">
-
-  <div class="hero">
-    <div class="eyebrow">Six-Month Operating Window · Aug 2026 → Feb 2027</div>
-    <h1>Flight Plan <span>/ GATE CSE 2027</span></h1>
-    <p class="hero-sub">A practical, month-by-month execution plan for the final stretch — built for the target of AIR under 100, with a floor of AIR under 150, aimed at CSE seats at IIT Madras and IIT Bombay.</p>
-    <div class="target-row">
-      <div class="chip">Exam window <b>Feb 6–21, 2027</b></div>
-      <div class="chip">Target AIR <b>&lt; 100</b></div>
-      <div class="chip">Floor AIR <b>&lt; 150</b></div>
-      <div class="chip">Target score <b>75–80+ / 100</b></div>
-    </div>
-
-    <div class="timeline-block">
-      <div class="timeline-label"><span>Aug 2026</span><span>Exam</span></div>
-      <div class="timeline" id="timeline">
-        <div class="tl-seg" data-m="0"><div class="fill"></div><span>AUG</span></div>
-        <div class="tl-seg" data-m="1"><div class="fill"></div><span>SEP</span></div>
+  </
         <div class="tl-seg" data-m="2"><div class="fill"></div><span>OCT</span></div>
         <div class="tl-seg" data-m="3"><div class="fill"></div><span>NOV</span></div>
         <div class="tl-seg" data-m="4"><div class="fill"></div><span>DEC</span></div>
