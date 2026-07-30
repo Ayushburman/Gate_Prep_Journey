@@ -1,31 +1,7 @@
 
     
     
-     ht</th><th>Tier</th></tr>
-        <tr><td>Algorithms &amp; Data Structures</td><td class="num">~13–15</td><td class="tier-A">A · Core</td></tr>
-        <tr><td>Programming (C-based)</td><td class="num">~6–8</td><td class="tier-A">A · Core</td></tr>
-        <tr><td>Operating Systems</td><td class="num">~8–10</td><td class="tier-A">A · Core</td></tr>
-        <tr><td>Databases</td><td class="num">~7–8</td><td class="tier-A">A · Core</td></tr>
-        <tr><td>Theory of Computation</td><td class="num">~6–7</td><td class="tier-B">B</td></tr>
-        <tr><td>Computer Networks (trimmed)</td><td class="num">~6–7</td><td class="tier-B">B</td></tr>
-        <tr><td>Digital Logic (trimmed)</td><td class="num">~5–6</td><td class="tier-B">B</td></tr>
-        <tr><td>COA (trimmed)</td><td class="num">~7–8</td><td class="tier-A">A · Core</td></tr>
-        <tr><td>Compiler Design</td><td class="num">~4–5</td><td class="tier-C">C</td></tr>
-        <tr><td>Engineering Mathematics</td><td class="num">~13</td><td class="tier-A">A · High-yield</td></tr>
-        <tr><td>General Aptitude</td><td class="num">15</td><td class="tier-A">A · High-yield, low-effort</td></tr>
-      </table>
-    </div>
-    <div class="callout">Engineering Maths and GA together carry <b>~28 marks</b> for a fraction of the syllabus depth of DS/Algo or OS — they're the highest marks-per-hour return in the whole paper, which is why they stay on a parallel daily track instead of being pushed to the end.</div>
-  </section>
-
-  <!-- 04 SIX MONTH PLAN -->
-  <section id="plan">
-    <div class="sec-head"><span class="sec-num">04</span><h2>Six-Month Execution Plan</h2></div>
-    <p class="sec-note">Each phase builds on the last — nothing here is a clean restart, so slippage in one month compounds. Treat month-end milestones as hard checkpoints, not suggestions.</p>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div><div class="phase-line"></div></div>
-      <div class="phase-body">
+     
         <div class="phase-month">Aug 2026</div>
         <div class="phase-title">Foundation lock — Tier A core</div>
         <div class="phase-desc">Algorithms + Data Structures and Operating Systems in full depth. Programming fundamentals refreshed alongside. GA + Maths daily track starts now, not later.</div>
