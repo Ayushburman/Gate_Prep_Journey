@@ -43,6 +43,7 @@
   .wrap{max-width:920px; margin:0 auto; padding:0 24px 120px;}
 
   /* ===== TOP STATUS BAR ===== */
+  
   .statusbar{
     position:sticky; top:0; z-index:50;
     background:rgba(10,12,16,0.92); backdrop-filter:blur(8px);
