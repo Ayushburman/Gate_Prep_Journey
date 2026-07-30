@@ -6,15 +6,7 @@
     --mono:'IBM Plex Mono', ui-monospace, monospace;
     --sans:'IBM Plex Sans', sys
     margin:0; background:var(--bg); color:var(--ink);
-    font-family:var(--sans); line-height:1.55; font-size:15px;
-    -webkit-font-smoothing:antialiased;
-  }
-  a{color:var(--cyan);}
-  bhbhh
-  vhgh
-  .wrap{max-width:920px; margin:0 auto; padding:0 24px 1
-  /* ===== TOP STATUS BAR ===== */
-  
+    font-family:var(--sans); line-height:1.55; 
   .statusbar{
     position:sticky; top:0; z-
   }
