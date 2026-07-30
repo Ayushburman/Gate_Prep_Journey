@@ -375,8 +375,7 @@ bhguh
     var monthsElapsed = progressFrac * totalMonths;
 
     document.querySelectorAll('.tl-seg[data-m]').forEach(function(seg){
-      var idx = parseInt(seg.getAttribute('data-m'), 10);
-      var fillPct = Math.min(1, Math.max(0, monthsElapsed - idx)) * 100;
+      var idx = parseInt(seg.getAttribute('data-
       seg.querySelector('.fill').style.width = fillPct + '%';
     });
   }
