@@ -66,6 +66,7 @@ bhguh
   #tminus{color:var(--amber); font-weight:600;}
 
   /* ===== HERO ===== */
+  jhuhu
   .hero{padding:64px 0 28px;}
   .eyebrow{font-family:var(--mono); font-size:12px; letter-spacing:.14em; color:var(--amber); text-transform:uppercase;}
   h1{
