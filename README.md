@@ -4,44 +4,7 @@
      
        
       <div class="day-card"><div class="day-name">Mon–Fri</div><ul>
-        <li>AM: deep-work block, current phase's core subject</li>
-        <li>Midday: 30–45 min GA/Maths (parallel track)</li>
-        <li>PM: problem sets on yesterday's topic</li>
-      </ul></div>
-      <div class="day-card"><div class="day-name">Saturday</div><ul>
-        <li>Sectional or full-length mock</li>
-        <li>Same-day error-log entry</li>
-      </ul></div>
-      <div class="day-card"><div class="day-name">Sunday</div><ul>
-        <li>Mock review + re-derive every wrong answer</li>
-        <li>Light week-ahead planning</li>
-        <li>Genuine rest block — protect it</li>
-      </ul></div>
-    </div>
-  </section>
-
-  <!-- 06 MOCK PROTOCOL -->
-  <section id="mocks">
-    <div class="sec-head"><span class="sec-num">06</span><h2>Mock Test Protocol</h2></div>
-    <div class="two-col">
-      <div class="panel">
-        <table>
-          <tr><th>Phase</th><th>Cadence</th></tr>
-          <tr><td>Aug</td><td>1 sectional/week</td></tr>
-          <tr><td>Sep–Oct</td><td>1 sectional + 1–2 full/week</td></tr>
-          <tr><td>Nov</td><td>1 full-length/week</td></tr>
-          <tr><td>Dec</td><td>2 full-length/week</td></tr>
-          <tr><td>Jan</td><td>Alternate days, then taper</td></tr>
-        </table>
-      </div>
-      <div class="panel">
-        <ul class="plain">
-          <li>Every mock is timed strictly at 3 hours, no pauses.</li>
-          <li>Log every wrong or guessed answer: topic, error type (concept / silly / time pressure), and the fix.</li>
-          <li>Re-attempt the same mock's wrong questions cold, 3–4 days later, before moving on.</li>
-          <li>Track raw marks against the 78-mark target line, not against other test-takers.</li>
-        </ul>
-      </div>
+        <
     </div>
   </section>
 
