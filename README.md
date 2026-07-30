@@ -3,11 +3,7 @@
 <!DOCTYPE 
 <
     --red:#E5605A;
-    --mono:'IBM Plex Mono', ui-monospace, monospace;
-    --sans:'IBM Plex Sans', sys
-    margin:0; background:var(--bg); color:var(--
-  .statusbar{
-    position:sticky; top:0; z-
+    --mono:'IBM Plex Mono', ui-monospace, 
   }
   .statusbar-inner{
     max-width:920px; mar
