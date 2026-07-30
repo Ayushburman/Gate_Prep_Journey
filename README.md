@@ -1,28 +1,7 @@
 
     
     
-    p
-  </
-        <div class="tl-seg" data-m="2"><div class="fill"></div><span>OCT</span></div>
-        <div class="tl-seg" data-m="3"><div class="fill"></div><span>NOV</span></div>
-        <div class="tl-seg" data-m="4"><div class="fill"></div><span>DEC</span></div>
-        <div class="tl-seg" data-m="5"><div class="fill"></div><span>JAN</span></div>
-        <div class="tl-seg exam"><span>FEB</span></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 01 EXAM SNAPSHOT -->
-  <section id="snapshot">
-    <div class="sec-head"><span class="sec-num">01</span><h2>Exam Snapshot</h2></div>
-    <div class="panel">
-      <table>
-        <tr><td style="color:var(--ink-faint)">Conducting body</td><td>IIT Madras</td></tr>
-        <tr><td style="color:var(--ink-faint)">Dates</td><td>Feb 6, 7, 13, 14, 20, 21, 2027 (multi-session, online CBT)</td></tr>
-        <tr><td style="color:var(--ink-faint)">Duration</td><td>3 hours</td></tr>
-        <tr><td style="color:var(--ink-faint)">Questions / marks</td><td>65 questions — 100 marks</td></tr>
-        <tr><td style="color:var(--ink-faint)">Split</td><td>General Aptitude 15 · Engineering Maths ≈13 · Core CS ≈72</td></tr>
-        <tr><td style="color:var(--ink-faint)">Marking</td><td>1-mark Qs: −1/3 for wrong · 2-mark Qs: −2/3 for wrong · MSQ/NAT: no negative marking</td></tr>
+     Qs: −1/3 for wrong · 2-mark Qs: −2/3 for wrong · MSQ/NAT: no negative marking</td></tr>
         <tr><td style="color:var(--ink-faint)">2027 syllabus note</td><td>IIT Madras trimmed the syllabus this cycle — the biggest cuts are in COA, Digital Logic, and Computer Networks. Re-check the official PDF before building topic lists so you're not over-preparing removed content.</td></tr>
       </table>
     </div>
