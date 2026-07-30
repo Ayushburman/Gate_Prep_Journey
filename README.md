@@ -5,8 +5,7 @@
     --red:#E5605A;
     --mono:'IBM Plex Mono', ui-monospace, monospace;
     --sans:'IBM Plex Sans', sys
-    margin:0; background:var(--bg); color:var(--ink);
-    font-family:var(--sans); line-height:1.55; 
+    margin:0; background:var(--bg); color:var(--
   .statusbar{
     position:sticky; top:0; z-
   }
