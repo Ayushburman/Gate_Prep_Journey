@@ -5,11 +5,9 @@
   }
   .status-dot{display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--amber); margin-right:7px; box-shadow:0 0 8px var(--amber); animation:pulse 2s infinite;}
   
-  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
-  #tminus{color:var(--amber); font-weight:600;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{
 
-  /* ===== HERO ===== */
-  jhuhu
+  
    jbjhh
   .hero{padding:64px 0 28px;}
   .eyebrow{font-family:var(--mono); font-size:12px; letter-spacing:.14em; color:var(--amber); text-transform:uppercase;}
