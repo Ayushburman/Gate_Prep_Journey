@@ -15,6 +15,7 @@
   :root{
     --bg:#0A0C10;
     --panel:#12151C;
+    
     --panel-2:#171B23;
     --line:#252B36;
     --ink:#E8EAED;
@@ -27,6 +28,7 @@
     --mono:'IBM Plex Mono', ui-monospace, monospace;
     --sans:'IBM Plex Sans', system-ui, sans-serif;
   }
+  
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
   body{
