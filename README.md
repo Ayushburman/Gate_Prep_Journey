@@ -1,11 +1,6 @@
 # Gate_Prep_Journey
 
-<!DOCTYPE html>
-bhgu
-<html lang="en">
-<title>GATE CSE 2027 — Six-Month Flight Plan</title>
-jguh
-bhguh
+<!DOCTYPE 
 <
     --red:#E5605A;
     --mono:'IBM Plex Mono', ui-monospace, monospace;
