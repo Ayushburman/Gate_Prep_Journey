@@ -40,11 +40,7 @@
   /* ===== SECTIONS ===== */
   section{margin-top:64px;}
   .sec-head{display:flex; align-items:baseline; gap:12px; margin-bottom:20px;}
-  .sec-num{font-family:var(--mono); color:var(--amber-dim); font-size:13px;}
-  h2{font-family:var(--mono); font-size:20px; margin:0; color:var(--ink); letter-spacing:-0.01em;}
-  .sec-note{color:var(--ink-faint); font-size:13px; margin:-10px 0 20px;}
-
-  .panel{background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:22px 24px;}
+  .sec-num{font-family:var(--mono);  padding:22px 24px;}
   .panel + .panel{margin-top:12px;}
 
   /* table */
