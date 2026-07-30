@@ -4,8 +4,7 @@
 <
     --red:#E5605A;
     --mono:'IBM Plex Mono', ui-monospace, monospace;
-    --sans:'IBM Plex Sans', system-ui, 
-  
+    --sans:'IBM Plex Sans', sys
     margin:0; background:var(--bg); color:var(--ink);
     font-family:var(--sans); line-height:1.55; font-size:15px;
     -webkit-font-smoothing:antialiased;
