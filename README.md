@@ -15,6 +15,7 @@ bhguh
 <style>
   
   :root{
+  bhbh
     --bg:#0A0C10;
     --panel:#12151C;
     
