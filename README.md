@@ -1,33 +1,7 @@
 
     
-    display:flex; align-items:center; justify-content:space-between; gap:16px;
-    font-family:var(--mono); font-size:12px; color:var(--ink-dim);
-  }
-  .
-  .hero-sub{color:var(--ink-dim); font-size:16px; max-width:640px; margin:18px 0 0;}
-  .target-row{display:flex; gap:10px; flex-wrap:wrap; margin-top:22px;}
-  .chip{
-    font-family:var(--mono); font-size:12px; padding:6px 12px; border:1px solid var(--line);
-    border-radius:20px; color:var(--ink-dim); background:var(--panel);
-  }
-  .chip b{color:var(--ink);}
-
-  /* ===== TIMELINE (signature element) ===== */
-  .timeline-block{margin-top:38px;}
-  .timeline-label{display:flex; justify-content:space-between; font-family:var(--mono); font-size:11px; color:var(--ink-faint); margin-bottom:8px; text-transform:uppercase; letter-spacing:.08em;}
-  .timeline{display:flex; gap:3px; height:34px;}
-  .tl-seg{flex:1; position:relative; background:var(--panel-2); border:1px solid var(--line); border-radius:3px; overflow:hidden;}
-  .tl-seg .fill{position:absolute; left:0; top:0; bottom:0; width:0%; background:linear-gradient(90deg, var(--amber-dim), var(--amber));}
-  .tl-seg.exam{background:rgba(229,96,90,0.08); border-color:rgba(229,96,90,0.4);}
-  .tl-seg span{
-    position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-    font-family:var(--mono); font-size:10.5px; color:var(--ink-dim); letter-spacing:.05em; z-index:2;
-  }
-  .tl-seg.exam span{color:var(--red);}
-
-  /* ===== SECTIONS ===== */
-  section{margin-top:64px;}
-  .sec-head{display:flex; align-items:baseline; gap:12px; margin-bottom:20px;}
+    
+    margin-bottom:20px;}
   .sec-num{font-family:var(--mono);  padding:22px 24px;}
   .panel + .panel{margin-top:12px;}
 
