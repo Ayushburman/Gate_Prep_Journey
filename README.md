@@ -6,20 +6,7 @@ bhgu
 <title>GATE CSE 2027 — Six-Month Flight Plan</title>
 jguh
 bhguh
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  :root{
-  bhbh
-    --bg:#0A0C10;
-
-    --panel:#12151C;
-    bhbhh
-    --panel-2:#171B23;
-    --line:#252B36;
-    --ink:#E8EAED;
-    --ink-dim:#9AA4B2;
-    --ink-faint:#5B6472;
-    --amber:#FFB640;
+<link rel="
     
     --amber-dim:#8A6425;
     --cyan:#5EC8D8;
