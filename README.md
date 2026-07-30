@@ -2,26 +2,7 @@
     
     
      
-        <div class="phase-month">Aug 2026</div>
-        <div class="phase-title">Foundation lock — Tier A core</div>
-        <div class="phase-desc">Algorithms + Data Structures and Operating Systems in full depth. Programming fundamentals refreshed alongside. GA + Maths daily track starts now, not later.</div>
-        <div class="phase-meta"><span><b>Mocks:</b> 1 sectional / week</span><span><b>Output:</b> topic-wise notes for both subjects, first error log opened</span></div>
-      </div>
-    </div>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div><div class="phase-line"></div></div>
-      <div class="phase-body">
-        <div class="phase-month">Sep 2026</div>
-        <div class="phase-title">Databases + COA</div>
-        <div class="phase-desc">DBMS in full (normalization, transactions, indexing, SQL/relational algebra) paired with the trimmed COA syllabus. First full-length mock at month-end to baseline against the 78-mark target.</div>
-        <div class="phase-meta"><span><b>Mocks:</b> 1 sectional / week + 1 full-length</span><span><b>Output:</b> baseline score, first ranked weak-topic list</span></div>
-      </div>
-    </div>
-
-    <div class="phase">
-      <div class="phase-rail"><div class="phase-dot"></div><div class="phase-line"></div></div>
-      <div class="phase-body">
+        <
         <div class="phase-month">Oct 2026</div>
         <div class="phase-title">TOC + Compiler Design + Digital Logic</div>
         <div class="phase-desc">Tier B/C subjects cleared in one sweep while Tier A subjects shift to a weekly maintenance pass (problem sets, not fresh reading). This is also when Computer Networks gets its first full pass.</div>
