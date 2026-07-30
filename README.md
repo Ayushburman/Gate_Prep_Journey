@@ -3,19 +3,7 @@
     display:flex; align-items:center; justify-content:space-between; gap:16px;
     font-family:var(--mono); font-size:12px; color:var(--ink-dim);
   }
-  .status-dot{display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--amber); margin-right:7px; box-shadow:0 0 8px var(--amber); animation:pulse 2s infinite;}
-  
-  @keyframes pulse{0%,100%{opacity:1;}50%{
-
-  
-   jbjhh
-  .hero{padding:64px 0 28px;}
-  .eyebrow{font-family:var(--mono); font-size:12px; letter-spacing:.14em; color:var(--amber); text-transform:uppercase;}
-  h1{
-    font-family:var(--mono); font-weight:700; font-size:clamp(30px,5vw,46px);
-    line-height:1.08; margin:14px 0 0; color:var(--ink); letter-spacing:-0.01em;
-  }
-  h1 span{color:var(--ink-faint);}
+  .
   .hero-sub{color:var(--ink-dim); font-size:16px; max-width:640px; margin:18px 0 0;}
   .target-row{display:flex; gap:10px; flex-wrap:wrap; margin-top:22px;}
   .chip{
