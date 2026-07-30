@@ -23,6 +23,7 @@
     --ink-dim:#9AA4B2;
     --ink-faint:#5B6472;
     --amber:#FFB640;
+    
     --amber-dim:#8A6425;
     --cyan:#5EC8D8;
     --red:#E5605A;
