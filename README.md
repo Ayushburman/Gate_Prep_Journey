@@ -6,18 +6,10 @@ bhgu
 <title>GATE CSE 2027 — Six-Month Flight Plan</title>
 jguh
 bhguh
-<link rel="
-    
-    --amber-dim:#8A6425;
-    --cyan:#5EC8D8;
+<
     --red:#E5605A;
     --mono:'IBM Plex Mono', ui-monospace, monospace;
-    --sans:'IBM Plex Sans', system-ui, sans-serif;
-  }
-  
-  *{box-sizing:border-box;}
-  html{scroll-behavior:smooth;}
-  body{
+    --sans:'IBM Plex Sans', system-ui, 
   
     margin:0; background:var(--bg); color:var(--ink);
     font-family:var(--sans); line-height:1.55; font-size:15px;
