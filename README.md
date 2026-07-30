@@ -2,30 +2,7 @@
     
     
     margin-bottom:20px;}
-  .sec-num{font-family:var(--mono);  padding:22px 24px;}
-  .panel + .panel{margin-top:12px;}
-
-  /* table */
-  table{width:100%; border-collapse:collapse; font-size:13.5px;}
-  th{
-    text-align:left; font-family:var(--mono); font-size:11px; text-transform:uppercase;
-    letter-spacing:.06em; color:var(--ink-faint); font-weight:500; padding:8px 10px;
-    border-bottom:1px solid var(--line);
-  }
-  td{padding:10px 10px; border-bottom:1px solid var(--line); color:var(--ink-dim); vertical-align:top;}
-  tr:last-child td{border-bottom:none;}
-  td.num, th.num{font-family:var(--mono); color:var(--ink);}
-  .tier-A{color:var(--amber); font-family:var(--mono); font-size:12px;}
-  .tier-B{color:var(--cyan); font-family:var(--mono); font-size:12px;}
-  .tier-C{color:var(--ink-faint); font-family:var(--mono); font-size:12px;}
-  .row-highlight td{background:rgba(255,182,64,0.06);}
-
-  /* phase cards */
-  .phase{
-    display:grid; grid-template-columns:64px 1fr; gap:0; margin-bottom:2px;
-  }
-  .phase-rail{position:relative; display:flex; flex-direction:column; align-items:center;}
-  .phase-dot{width:11px; height:11px; border-radius:50%; background:var(--panel-2); border:2px solid var(--amber-dim); margin-top:6px; flex-shrink:0;}
+  .
   .phase-line{flex:1; width:1px; background:var(--line); margin-top:4px;}
   .phase:last-child .phase-line{display:none;}
   .phase-body{padding:0 0 34px 18px;}
