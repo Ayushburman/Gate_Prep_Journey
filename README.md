@@ -12,8 +12,7 @@
   a{color:var(--cyan);}
   bhbhh
   vhgh
-  .wrap{max-width:920px; margin:0 auto; padding:0 24px 120px;}
-
+  .wrap{max-width:920px; margin:0 auto; padding:0 24px 1
   /* ===== TOP STATUS BAR ===== */
   
   .statusbar{
