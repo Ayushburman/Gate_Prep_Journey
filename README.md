@@ -1,36 +1,7 @@
 
     
     
-     Qs: −1/3 for wrong · 2-mark Qs: −2/3 for wrong · MSQ/NAT: no negative marking</td></tr>
-        <tr><td style="color:var(--ink-faint)">2027 syllabus note</td><td>IIT Madras trimmed the syllabus this cycle — the biggest cuts are in COA, Digital Logic, and Computer Networks. Re-check the official PDF before building topic lists so you're not over-preparing removed content.</td></tr>
-      </table>
-    </div>
-  </section>
-
-  <!-- 02 TARGET CALIBRATION -->
-  <section id="calibration">
-    <div class="sec-head"><span class="sec-num">02</span><h2>Target Calibration</h2></div>
-    <p class="sec-note">What AIR &lt; 100 actually costs, based on recent-cycle marks-vs-rank trends. Treat this as a compass, not a contract — normalization shifts a few marks either way each year.</p>
-    <div class="panel">
-      <table>
-        <tr><th>Rank band</th><th class="num">Marks / 100</th><th>Read</th></tr>
-        <tr><td>AIR 1–10</td><td class="num">85+</td><td class="tier-A">Reach</td></tr>
-        <tr class="row-highlight"><td>AIR 10–50</td><td class="num">75–80</td><td class="tier-A">Target zone</td></tr>
-        <tr class="row-highlight"><td>AIR 50–100</td><td class="num">70–75</td><td class="tier-A">Target zone</td></tr>
-        <tr><td>AIR 100–200</td><td class="num">65–70</td><td class="tier-B">Floor / safety net</td></tr>
-        <tr><td>AIR 200–500</td><td class="num">60–65</td><td class="tier-C">Below floor</td></tr>
-      </table>
-    </div>
-    <div class="callout">Build the plan around <b>78+ raw marks</b> as the working target — a buffer above the AIR-100 line, since a single hard paper day can shift the cutoff by 3–5 marks. Historically, IIT Bombay and IIT Madras CSE general-category M.Tech cutoffs land in a similar AIR band, but confirm the current year's cutoff on COAP once counselling opens — don't plan admission odds off memory of past years.</div>
-  </section>
-
-  <!-- 03 WEIGHTAGE MAP -->
-  <section id="weightage">
-    <div class="sec-head"><span class="sec-num">03</span><h2>Subject Weightage Map</h2></div>
-    <p class="sec-note">Where the 72 core-CS marks tend to concentrate. Tier A subjects get first claim on deep-work hours; Tier C gets revision-only passes.</p>
-    <div class="panel">
-      <table>
-        <tr><th>Subject</th><th class="num">Typical weight</th><th>Tier</th></tr>
+     ht</th><th>Tier</th></tr>
         <tr><td>Algorithms &amp; Data Structures</td><td class="num">~13–15</td><td class="tier-A">A · Core</td></tr>
         <tr><td>Programming (C-based)</td><td class="num">~6–8</td><td class="tier-A">A · Core</td></tr>
         <tr><td>Operating Systems</td><td class="num">~8–10</td><td class="tier-A">A · Core</td></tr>
