@@ -28,4 +28,9 @@
 - GateWallah
 - pyq
 
-6
+6. Digital Logic
+- GFG
+- Robot Brigade
+- KG
+- Pyq
+
