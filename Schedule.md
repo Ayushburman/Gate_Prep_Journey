@@ -8,3 +8,8 @@
 - Knowledge Gate
 - pyq
 
+3.Linear Algebra
+- Math with Richard
+- 3blue1brown
+- Dr. Trefor Bazett
+- pyq
