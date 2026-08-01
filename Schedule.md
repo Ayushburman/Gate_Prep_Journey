@@ -12,5 +12,3 @@ ccgg
 hug
 rdrd
  gvgv
-
- bhbh
