@@ -61,3 +61,10 @@
 - Deepak poonia
 - pyq
 
+12. DBMS
+- Unacademy
+- neso
+- kg
+- pyq
+
+13
