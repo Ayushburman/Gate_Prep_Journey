@@ -42,7 +42,7 @@
 
 > You have roughly **7 effective months**.
 
-Every remaining week needs a purpose.
+> Every remaining week needs a purpose.
 
 
 ---
