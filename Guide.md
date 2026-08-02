@@ -265,9 +265,9 @@ Hard breaks between sessions.
 
 ## One Source Per Subject
 
-Avoid collecting more books.
+> Avoid collecting more books.
 
-Depth beats variety.
+> Depth beats variety.
 
 ---
 
