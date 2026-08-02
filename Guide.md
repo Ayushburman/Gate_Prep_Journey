@@ -363,7 +363,7 @@ The difference comes from:
 
 > The biggest threat isn't the syllabus.
 
-It's losing consistency after an excellent first month.
+> It's losing consistency after an excellent first month.
 
 That's why the tracker exists.
 
