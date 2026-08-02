@@ -34,7 +34,7 @@
 
 ## ⚠ Reality
 
-You lost several months in 2026 because of a medical situation.
+> You lost several months in 2026 because of a medical situation.
 
 That changes the planning—not the target.
 
