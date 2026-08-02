@@ -44,6 +44,7 @@ You have roughly **7 effective months**.
 
 Every remaining week needs a purpose.
 
+
 ---
 
 ## ✅ Why the Target Is Still Realistic
