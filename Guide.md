@@ -86,6 +86,7 @@ The challenge is **compression, revision, and testing**, not rebuilding fundamen
 
 > Weightages are approximate using recent GATE trends.
 
+
 ---
 
 
