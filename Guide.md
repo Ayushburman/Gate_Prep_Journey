@@ -2,7 +2,7 @@
 # 📘 OPERATING MANUAL · GATE CSE 2027
 
 > **Getting to AIR <100 from where you actually stand today**
->
+
 > Not a motivational plan. A resource-allocation problem: ~7 months of real study time, one exam, one number that matters.
 
 
