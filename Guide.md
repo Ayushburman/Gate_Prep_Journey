@@ -36,7 +36,7 @@
 
 > You lost several months in 2026 because of a medical situation.
 
-That changes the planning—not the target.
+> That changes the planning—not the target.
 
 Someone studying for 12 months can waste one.
 
