@@ -319,7 +319,7 @@ Still verify your reasoning.
 
 ## Weekly Revision
 
-Any subject untouched for three weeks starts fading.
+> Any subject untouched for three weeks starts fading.
 
 Rolling revision is mandatory.
 
