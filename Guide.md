@@ -371,7 +371,7 @@ The difference comes from:
 ---
 
 > **Final Thought**
->
+
 > Your objective over the next seven months is **not** to become a different student.
->
+
 > It is to convert the depth you've already built into **speed, accuracy, consistency, and exam-day execution**.
