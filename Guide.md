@@ -361,7 +361,7 @@ The difference comes from:
 
 ## Biggest Risk
 
-The biggest threat isn't the syllabus.
+> The biggest threat isn't the syllabus.
 
 It's losing consistency after an excellent first month.
 
