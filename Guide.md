@@ -343,8 +343,8 @@ Rolling revision is mandatory.
 
 # 07 · Honest Summary
 
-AIR <100 is rarely determined by how much you know.
-It is determined by how **few marks you lose** during the final two months.
+> AIR <100 is rarely determined by how much you know.
+> It is determined by how **few marks you lose** during the final two months.
 
 By January, most top candidates know the syllabus.
 
