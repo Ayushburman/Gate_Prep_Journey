@@ -40,7 +40,7 @@
 
 > Someone studying for 12 months can waste one.
 
-You have roughly **7 effective months**.
+> You have roughly **7 effective months**.
 
 Every remaining week needs a purpose.
 
