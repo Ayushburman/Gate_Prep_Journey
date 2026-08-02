@@ -114,7 +114,7 @@ The challenge is **compression, revision, and testing**, not rebuilding fundamen
 
 > Digital Logic provides the foundation for COA.
 
-Finish Logic before Architecture.
+> Finish Logic before Architecture.
 
 ---
 
