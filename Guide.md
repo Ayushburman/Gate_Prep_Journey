@@ -94,11 +94,11 @@ The challenge is **compression, revision, and testing**, not rebuilding fundamen
 
 ### Data Structures + Algorithms
 
-Data Structures are the vocabulary.
+> Data Structures are the vocabulary.
 
-Algorithms are the grammar.
+> Algorithms are the grammar.
 
-Study together to reduce redundant revision.
+> Study together to reduce redundant revision.
 
 ---
 
