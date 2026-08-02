@@ -367,9 +367,7 @@ The difference comes from:
 
 > That's why the tracker exists.
 
-> Not to measure effort—
-
-but to detect failure early enough to fix it.
+> Not to measure effort— but to detect failure early enough to fix it.
 
 ---
 
