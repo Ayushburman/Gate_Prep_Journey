@@ -38,7 +38,7 @@
 
 > That changes the planning—not the target.
 
-Someone studying for 12 months can waste one.
+> Someone studying for 12 months can waste one.
 
 You have roughly **7 effective months**.
 
