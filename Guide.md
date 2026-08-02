@@ -5,6 +5,3 @@ vhgh
 gfgf
 jhjh
 jhhu
-ghghg
-hvhvgh
-hgyt
