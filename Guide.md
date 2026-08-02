@@ -106,7 +106,7 @@ The challenge is **compression, revision, and testing**, not rebuilding fundamen
 
 > Compiler Design is simply TOC in action.
 
-Learning them together strengthens both.
+> Learning them together strengthens both.
 
 ---
 
