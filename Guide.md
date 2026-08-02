@@ -365,7 +365,7 @@ The difference comes from:
 
 > It's losing consistency after an excellent first month.
 
-That's why the tracker exists.
+> That's why the tracker exists.
 
 Not to measure effort—
 
