@@ -16,4 +16,4 @@ it is possible
 
 > end syllabus in 4 monrhs
 
-> start praticing
+> start 
