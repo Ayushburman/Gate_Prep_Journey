@@ -1,5 +1,5 @@
 6 month strategy 
-but possible if you are practical
+but possible if you are
 it is possible
 > sequence 
 
