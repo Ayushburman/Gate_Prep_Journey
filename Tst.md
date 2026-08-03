@@ -6,7 +6,7 @@ it is possible
 
 > Start with hardest
 
-> end wigh easiest
+> end wigh 
 
 > Repeat hardest the most
 
