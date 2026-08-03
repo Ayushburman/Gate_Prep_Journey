@@ -12,4 +12,4 @@ it is possible
 
 > Repeat hardest the most
 
-> Hardest here means important and critical subject like Discrete Math 
+> Hardest here means important and critical subject like Discrete
