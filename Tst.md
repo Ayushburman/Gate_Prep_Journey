@@ -1,1 +1,1 @@
-6 month strategy 
+6 month 
