@@ -135,6 +135,7 @@ Rough historical GATE CSE weightage distribution (marks out of 100), useful for 
 *(Exact weightage shifts slightly year to year — cross-check against the current year's official GATE CSE syllabus PDF before finalizing subject-time allocation.)*
 
 
+
 ---
 
 ## Quick Setup Checklist
