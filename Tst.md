@@ -115,6 +115,7 @@ TOPIC NAME
 
 **4. Keep a single running "formula sheet" per notebook cluster**, updated as new formulas appear — don't let formulas live only inside topic notes, or last-week revision becomes a hunt.
 
+
 **5. Every wrong practice question becomes a note-log entry, not just a redo.**
 Format: *what I thought → what's actually true → why the trap worked on me.* This is higher-value than re-solving the same question five times.
 
