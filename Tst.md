@@ -18,6 +18,7 @@
 - [Note-Writing Methodology](#note-writing-methodology)
 - [Weightage Reference](#weightage-reference)
 
+
 ---
 
 ## Subject List (13 areas)
