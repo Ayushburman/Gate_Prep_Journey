@@ -121,6 +121,7 @@ Format: *what I thought → what's actually true → why the trap worked on me.*
 **6. Revise from your notes, not from the book.**
 The book is for first-pass understanding only. All later revision passes (2nd, 3rd, 4th) should be from your own notes — if a gap shows up, that's the signal to go back to the book for that one spot only.
 
+
 **7. Digital single-file references (if using HTML/Markdown) should mirror the same skeleton per topic**, with a table of contents anchor per topic so the file stays navigable as it grows — treat each subject-cluster file as a living document rather than a series of one-off exports.
 
 ---
