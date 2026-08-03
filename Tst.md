@@ -7,5 +7,3 @@ it is possible
 
 > end w
 > Repeat hardest the most
-
-> Hardest h
