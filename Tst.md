@@ -14,4 +14,3 @@ it is possible
 
 > Hardest here means important and critical subject like Discrete Math and TOC
 
-> end 
