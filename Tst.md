@@ -5,8 +5,7 @@ it is possible
 
 > Start with hardest
 
-> end wigh 
-
+> end w
 > Repeat hardest the most
 
 > Hardest here 
