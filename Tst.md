@@ -8,4 +8,4 @@ it is possible
 > end w
 > Repeat hardest the most
 
-> Hardest here 
+> Hardest h
