@@ -16,7 +16,4 @@ it is possible
 
 > end syllabus in 4 monrhs
 
-> start praticing for 2 months 
-
-
-
+> start praticing
