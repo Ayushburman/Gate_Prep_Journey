@@ -6,4 +6,4 @@ it is possible
 > Start with hardest
 
 > end w
-> Repeat hardest the most
+> Repeat hardest the
