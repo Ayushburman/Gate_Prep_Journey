@@ -8,7 +8,6 @@
 ## Table of Contents
 
 
-
 - [Subject List (13 areas)](#subject-list-13-areas)
 - [Notebook Organization](#notebook-organization)
 - [Book Recommendations by Subject](#book-recommendations-by-subject)
