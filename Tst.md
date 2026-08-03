@@ -41,6 +41,7 @@ GATE CSE syllabus splits into **13 core areas** plus General Aptitude. Pairing r
 
 ---
 
+
 ## Notebook Organization
 
 **Rule of thumb: one notebook (physical or digital) per subject cluster, not per subject.** Thirteen separate notebooks fragment revision; four to six clustered notebooks make review faster and reveal connections between topics.
