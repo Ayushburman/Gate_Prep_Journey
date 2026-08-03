@@ -9,4 +9,4 @@ it is possible
 
 > Repeat hardest the most
 
-> Hardest here means 
+> Hardest here 
