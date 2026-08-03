@@ -2,6 +2,8 @@
 
 > A structured reference for subjects, standard textbooks, notebook organization, and note-writing methodology for GATE CSE.
 
+
+
 ---
 
 ## 📚 Table of Contents
