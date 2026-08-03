@@ -3,7 +3,6 @@ but possible if you
 it is possible
 > sequence 
 
-> Start with hardest
-
+> Start with 
 > end w
 > Repeat hardest the
