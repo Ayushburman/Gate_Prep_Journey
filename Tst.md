@@ -117,6 +117,7 @@ TOPIC NAME
 **5. Every wrong practice question becomes a note-log entry, not just a redo.**
 Format: *what I thought → what's actually true → why the trap worked on me.* This is higher-value than re-solving the same question five times.
 
+
 **6. Revise from your notes, not from the book.**
 The book is for first-pass understanding only. All later revision passes (2nd, 3rd, 4th) should be from your own notes — if a gap shows up, that's the signal to go back to the book for that one spot only.
 
