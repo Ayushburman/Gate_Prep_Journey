@@ -9,4 +9,4 @@ it is possible
 
 > Repeat hardest the most
 
-> Hardest here means important and 
+> Hardest here means important 
