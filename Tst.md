@@ -1,4 +1,4 @@
-# 🛰️ GATE CSE Preparation — Resource Map
+#  GATE CSE Preparation — Resource Map
 
 > A structured reference for subjects, standard textbooks, notebook organization, and note-writing methodology for GATE CSE.
 
