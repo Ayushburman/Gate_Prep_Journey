@@ -21,6 +21,7 @@
 
 ---
 
+
 ## Subject List (13 areas)
 
 GATE CSE syllabus splits into **13 core areas** plus General Aptitude. Pairing related subjects while studying builds cross-references naturally (e.g. a hash table in DS shows up again as a compiler symbol table).
