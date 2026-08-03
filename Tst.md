@@ -4,7 +4,6 @@ but possible if you are practical
 it is possible
 > sequence wise subject
 
-> Time Table
 
 > Start with hardest
 
