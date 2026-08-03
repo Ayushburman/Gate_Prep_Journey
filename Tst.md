@@ -129,6 +129,7 @@ The book is for first-pass understanding only. All later revision passes (2nd, 3
 
 ## Weightage Reference
 
+
 Rough historical GATE CSE weightage distribution (marks out of 100), useful for prioritizing notebook depth — Algorithms, Data Structures, OS, DBMS, and Digital Logic/COA together typically account for over half the paper, with TOC, Compiler Design, Networks, Discrete Math, and Engineering Mathematics making up most of the rest, and General Aptitude fixed at 15 marks regardless of preparation depth in the technical sections.
 
 *(Exact weightage shifts slightly year to year — cross-check against the current year's official GATE CSE syllabus PDF before finalizing subject-time allocation.)*
