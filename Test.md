@@ -12,6 +12,3 @@ buguh
 > jhu
 > bhgh
 > vhgh
-> hihi
-p
-jbj
