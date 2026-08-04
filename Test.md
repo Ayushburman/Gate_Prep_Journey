@@ -18,5 +18,4 @@ jbj
 vhvh
 >  hbj
 bhbh
-> bjbj
 vyg
