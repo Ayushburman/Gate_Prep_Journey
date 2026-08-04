@@ -1,5 +1,3 @@
 
 abcd
 vgvh
-
-jbj
