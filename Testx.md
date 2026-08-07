@@ -5,4 +5,3 @@ ghg
 gh
 gug
 fhgy
-gugu
