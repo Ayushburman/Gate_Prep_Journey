@@ -14,5 +14,3 @@ hvghh
 fdg
 hh
 fygy
-fyfy
-bhbh
