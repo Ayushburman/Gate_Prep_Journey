@@ -405,3 +405,54 @@ This interactive visualization lets you step through each comparison and swap to
 
 If you're preparing for **B.Tech CSE**, **GATE**, or **campus placements**, these resources cover the core algorithms you'll need.
 
+Here are some of the best free resources to learn and practice **Theory of Computation (TOC)**:
+
+1. **[GeeksforGeeks – Theory of Computation](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/?utm_source=chatgpt.com)**
+
+   * Complete notes, examples, MCQs, and practice questions.
+
+2. **[Neso Academy – Theory of Computation](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Easy-to-follow video lectures for B.Tech students.
+
+3. **[Gate Smashers – TOC Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Popular for GATE, semester exams, and placements.
+
+4. **[NPTEL – Theory of Computation](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT-level lectures with assignments and quizzes.
+
+5. **[JFLAP](https://www.jflap.org/?utm_source=chatgpt.com)**
+
+   * Interactive tool to design and simulate finite automata, pushdown automata, and Turing machines.
+
+### Important topics to study
+
+* Introduction to Automata
+* Finite Automata (DFA & NFA)
+* Regular Expressions
+* Regular Languages
+* Context-Free Grammars (CFG)
+* Pushdown Automata (PDA)
+* Context-Free Languages
+* Turing Machines
+* Decidability
+* Undecidability
+* Pumping Lemma
+* Chomsky Hierarchy
+
+### Practice websites
+
+* [IndiaBIX – TOC MCQs](https://www.indiabix.com/computer-science/theory-of-computation/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Introduction to the Theory of Computation** – One of the best books for conceptual understanding.
+* **Introduction to Automata Theory, Languages, and Computation** – A classic reference for TOC.
+* **Theory of Computer Science** – Popular among engineering students.
+
+These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
+
+
