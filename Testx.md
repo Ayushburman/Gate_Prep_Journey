@@ -12,5 +12,3 @@ vg
 tf
 hvghh
 fdg
-hh
-fygy
