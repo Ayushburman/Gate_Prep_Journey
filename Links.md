@@ -224,3 +224,59 @@ Here are some of the best free resources to learn and practice **Digital Logic**
 If you're preparing for **B.Tech CSE placements (GATE, campus placements, or semester exams)**, I can also provide **unit-wise notes, PYQs, MCQs, Karnaugh Map shortcuts, and important Boolean algebra formulas**.
 
 
+Here are some of the best free resources to learn and practice **Computer Organization and Architecture (COA)**:
+
+1. **[Neso Academy – Computer Organization and Architecture](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Excellent video lectures for B.Tech students and placement preparation.
+
+2. **[GeeksforGeeks – Computer Organization and Architecture](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/?utm_source=chatgpt.com)**
+
+   * Covers theory, examples, MCQs, and interview questions.
+
+3. **[NPTEL – Computer Organization and Architecture](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT lectures with assignments and quizzes.
+
+4. **[TutorialsPoint – Computer Organization](https://www.tutorialspoint.com/computer_organization_and_architecture/index.htm?utm_source=chatgpt.com)**
+
+   * Beginner-friendly explanations with diagrams.
+
+5. **[Gate Smashers – COA Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Popular for semester exams, GATE, and placement preparation.
+
+### Important topics to study
+
+* Basic Computer Organization
+* Number Systems and Data Representation
+* Register Transfer Language (RTL)
+* CPU Organization
+* Instruction Cycle
+* Addressing Modes
+* Arithmetic Logic Unit (ALU)
+* Control Unit (Hardwired & Microprogrammed)
+* Memory Organization
+
+  * Cache Memory
+  * Virtual Memory
+  * Main Memory
+* Input/Output (I/O) Organization
+* Interrupts
+* Pipelining
+* RISC vs CISC
+* Flynn's Classification
+
+### Practice websites
+
+* [IndiaBIX – Computer Architecture MCQs](https://www.indiabix.com/computer-science/computer-architecture/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Computer Organization and Design** – Excellent for understanding modern computer architecture.
+* **Computer Organization** – Widely used in engineering courses.
+* **Computer System Architecture** – Great for semester exams and foundational concepts.
+
+If you're preparing for **B.Tech CSE**, **GATE**, or **campus placements**, these resources cover nearly everything you'll need.
+
