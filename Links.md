@@ -567,4 +567,58 @@ Here are some of the best free resources to learn and practice **Operating Syste
 
 These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
 
+Here are some of the best free resources to learn and practice **Computer Networks (CN)**:
+
+1. **[GeeksforGeeks – Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials/?utm_source=chatgpt.com)**
+
+   * Complete tutorials, diagrams, MCQs, and interview questions.
+
+2. **[Neso Academy – Computer Networks](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Beginner-friendly video lectures for B.Tech students.
+
+3. **[Gate Smashers – Computer Networks Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Excellent for semester exams, GATE, and placements.
+
+4. **[NPTEL – Computer Networks](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT lectures with assignments and quizzes.
+
+5. **[Cisco Networking Academy](https://www.netacad.com/?utm_source=chatgpt.com)**
+
+   * Free networking courses and hands-on labs for beginners.
+
+### Important topics to study
+
+* Introduction to Computer Networks
+* OSI Model
+* TCP/IP Model
+* Physical Layer
+* Data Link Layer
+* Network Layer
+* Transport Layer
+* Application Layer
+* IP Addressing (IPv4 & IPv6)
+* Subnetting
+* Routing Algorithms
+* Switching
+* TCP and UDP
+* HTTP, HTTPS, FTP, SMTP, DNS, DHCP
+* Congestion Control
+* Network Security Basics
+
+### Practice websites
+
+* [IndiaBIX – Computer Networks MCQs](https://www.indiabix.com/computer-science/computer-networks/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/computer-network-tutorials/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Computer Networking: A Top-Down Approach** – Excellent for understanding networking concepts with real-world examples.
+* **Computer Networks** – A classic and comprehensive reference.
+* **Data Communications and Networking** – Widely used in engineering courses and exam preparation.
+
+These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
+
 
