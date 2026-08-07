@@ -12,7 +12,6 @@ vg
 tf
 hvghh
 fdg
-vhgh
 hh
 fygy
 fyfy
