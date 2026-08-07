@@ -343,3 +343,65 @@ Here are some of the best free resources to learn and practice **Programming and
 
 If you're preparing for **B.Tech CSE semester exams, GATE, or campus placements**, mastering these topics will give you a strong foundation for coding interviews and advanced computer science subjects.
 
+
+Here are some of the best free resources to learn and practice **Algorithms**:
+
+1. **[GeeksforGeeks – Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?utm_source=chatgpt.com)**
+
+   * Comprehensive tutorials, examples, and practice problems.
+
+2. **[Visualgo](https://visualgo.net/en?utm_source=chatgpt.com)**
+
+   * Interactive visualizations for sorting, searching, graphs, trees, and shortest-path algorithms.
+
+3. **[MIT OpenCourseWare – Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/?utm_source=chatgpt.com)**
+
+   * Complete university-level course with lecture videos, notes, and assignments.
+
+4. **[NPTEL – Design and Analysis of Algorithms](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT lectures with assignments and quizzes.
+
+5. **[CP-Algorithms](https://cp-algorithms.com/?utm_source=chatgpt.com)**
+
+   * Excellent reference for competitive programming and advanced algorithms.
+
+6. **[LeetCode](https://leetcode.com/?utm_source=chatgpt.com)**
+
+   * Practice algorithmic coding problems for placements and interviews.
+
+### Important topics to study
+
+* Algorithm Analysis (Time & Space Complexity)
+* Asymptotic Notations (Big O, Big Ω, Big Θ)
+* Searching Algorithms (Linear Search, Binary Search)
+* Sorting Algorithms
+
+  * Bubble Sort
+  * Selection Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
+  * Heap Sort
+* Divide and Conquer
+* Greedy Algorithms
+* Dynamic Programming
+* Backtracking
+* Graph Algorithms (BFS, DFS, Dijkstra, Floyd–Warshall)
+* Minimum Spanning Tree (Prim's, Kruskal's)
+* String Matching Algorithms
+
+A good algorithm to understand first is **Bubble Sort**, since it introduces the ideas of comparison, swapping, and time complexity:
+
+genui{"computing_fundamentals_algorithms":{"type_id":"BUBBLE_SORT"}}
+
+This interactive visualization lets you step through each comparison and swap to see how the largest elements gradually move to the end of the array.
+
+### Best books
+
+* **Introduction to Algorithms** (often called *CLRS*) – The standard reference for algorithms.
+* **Algorithm Design** – Excellent for understanding algorithmic thinking.
+* **Data Structures and Algorithms Made Easy** – Great for placements and interview preparation.
+
+If you're preparing for **B.Tech CSE**, **GATE**, or **campus placements**, these resources cover the core algorithms you'll need.
+
