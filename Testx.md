@@ -6,5 +6,3 @@ gh
 gug
 fhgy
 gugu
-yh
-vggg
