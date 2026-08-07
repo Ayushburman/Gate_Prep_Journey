@@ -456,3 +456,62 @@ Here are some of the best free resources to learn and practice **Theory of Compu
 These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
 
 
+Here are some of the best free resources to learn and practice **Compiler Design**:
+
+1. **[GeeksforGeeks – Compiler Design](https://www.geeksforgeeks.org/compiler-design-tutorials/?utm_source=chatgpt.com)**
+
+   * Comprehensive tutorials, examples, MCQs, and interview questions.
+
+2. **[Neso Academy – Compiler Design](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Beginner-friendly video lectures covering all compiler phases.
+
+3. **[Gate Smashers – Compiler Design Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Excellent for B.Tech semester exams, GATE, and placements.
+
+4. **[NPTEL – Compiler Design](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT lectures with assignments and quizzes.
+
+5. **[TutorialsPoint – Compiler Design](https://www.tutorialspoint.com/compiler_design/index.htm?utm_source=chatgpt.com)**
+
+   * Simple explanations with examples.
+
+### Important topics to study
+
+* Introduction to Compilers
+* Compiler Phases
+
+  * Lexical Analysis
+  * Syntax Analysis
+  * Semantic Analysis
+  * Intermediate Code Generation
+  * Code Optimization
+  * Code Generation
+* Finite Automata and Lexical Analysis
+* Context-Free Grammars (CFG)
+* Parsing
+
+  * Top-Down Parsing
+  * Bottom-Up Parsing
+  * LL(1)
+  * LR, SLR, LALR
+* Syntax-Directed Translation
+* Symbol Table
+* Runtime Environment
+* Error Detection and Recovery
+* Code Optimization Techniques
+
+### Practice websites
+
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/compiler-design-tutorials/?utm_source=chatgpt.com)
+* [IndiaBIX – Compiler Design MCQs](https://www.indiabix.com/computer-science/compiler-design/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Compilers: Principles, Techniques, and Tools** (the famous *Dragon Book*) – The standard reference for compiler design.
+* **Compiler Design** – Good for engineering students and exam preparation.
+* **Modern Compiler Implementation in C** – Great for understanding practical compiler implementation.
+
+These resources are suitable for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
