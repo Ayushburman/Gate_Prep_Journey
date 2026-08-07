@@ -17,5 +17,4 @@ hh
 fygy
 fyfy
 bhbh
-vg
 hvgf
