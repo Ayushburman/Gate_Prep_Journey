@@ -515,3 +515,56 @@ Here are some of the best free resources to learn and practice **Compiler Design
 * **Modern Compiler Implementation in C** – Great for understanding practical compiler implementation.
 
 These resources are suitable for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
+
+Here are some of the best free resources to learn and practice **Operating Systems (OS)**:
+
+1. **[GeeksforGeeks – Operating Systems](https://www.geeksforgeeks.org/operating-systems/?utm_source=chatgpt.com)**
+
+   * Complete tutorials, MCQs, examples, and interview questions.
+
+2. **[Neso Academy – Operating System](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Easy-to-understand video lectures for B.Tech students.
+
+3. **[Gate Smashers – Operating System Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Excellent for semester exams, GATE, and placements.
+
+4. **[NPTEL – Operating Systems](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT-level lectures with assignments and quizzes.
+
+5. **[OSTEP (Operating Systems: Three Easy Pieces)](https://pages.cs.wisc.edu/~remzi/OSTEP/?utm_source=chatgpt.com)**
+
+   * Free online textbook with clear explanations of core OS concepts.
+
+### Important topics to study
+
+* Introduction to Operating Systems
+* Processes and Threads
+* CPU Scheduling
+* Process Synchronization
+* Deadlocks
+* Memory Management
+* Virtual Memory
+* Paging and Segmentation
+* File Systems
+* Disk Scheduling
+* Input/Output (I/O) Management
+* System Calls
+* Linux Basics
+
+### Practice websites
+
+* [IndiaBIX – Operating System MCQs](https://www.indiabix.com/operating-system/questions-and-answers/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/operating-systems/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Operating System Concepts** (the famous *Dinosaur Book*) – The standard reference for operating systems.
+* **Modern Operating Systems** – Excellent for conceptual understanding.
+* **Operating Systems: Three Easy Pieces** – Free and highly recommended for self-study.
+
+These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
+
+
