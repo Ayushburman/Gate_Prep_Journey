@@ -280,3 +280,66 @@ Here are some of the best free resources to learn and practice **Computer Organi
 
 If you're preparing for **B.Tech CSE**, **GATE**, or **campus placements**, these resources cover nearly everything you'll need.
 
+Here are some of the best free resources to learn and practice **Programming and Data Structures (PDS)**:
+
+1. **[GeeksforGeeks – Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/?utm_source=chatgpt.com)**
+
+   * Comprehensive tutorials, coding problems, and interview questions.
+
+2. **[Neso Academy – Data Structures](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Beginner-friendly video lectures for C and Data Structures.
+
+3. **[NPTEL – Programming, Data Structures and Algorithms](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT courses with lectures, assignments, and quizzes.
+
+4. **[Visualgo](https://visualgo.net/en?utm_source=chatgpt.com)**
+
+   * Interactive visualizations for stacks, queues, trees, graphs, sorting, and more.
+
+5. **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?utm_source=chatgpt.com)**
+
+   * Practice programming and DSA problems with an online compiler.
+
+6. **[LeetCode](https://leetcode.com/?utm_source=chatgpt.com)**
+
+   * Coding interview questions from easy to hard.
+
+7. **[CodeChef](https://www.codechef.com/?utm_source=chatgpt.com)**
+
+   * Competitive programming contests and practice problems.
+
+### Important topics to study
+
+* C Programming Basics
+* Arrays
+* Strings
+* Pointers
+* Structures and Unions
+* Linked Lists
+* Stacks
+* Queues
+* Trees (Binary Tree, BST)
+* Heaps
+* Graphs
+* Hashing
+* Searching Algorithms
+* Sorting Algorithms
+* Recursion
+* Time and Space Complexity (Big O)
+
+### Practice websites
+
+* [GeeksforGeeks Practice](https://practice.geeksforgeeks.org/?utm_source=chatgpt.com)
+* [HackerRank Practice](https://www.hackerrank.com/domains/data-structures?utm_source=chatgpt.com)
+* [LeetCode Problems](https://leetcode.com/problemset/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Data Structures Using C** – Excellent for beginners.
+* **Data Structures and Algorithm Analysis in C** – Great for deeper understanding.
+* **The C Programming Language** – The classic reference for C programming.
+
+If you're preparing for **B.Tech CSE semester exams, GATE, or campus placements**, mastering these topics will give you a strong foundation for coding interviews and advanced computer science subjects.
+
