@@ -622,3 +622,63 @@ Here are some of the best free resources to learn and practice **Computer Networ
 These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
 
 
+
+Here are some of the best free resources to learn and practice **Database Management Systems (DBMS)**:
+
+1. **[GeeksforGeeks – DBMS Tutorial](https://www.geeksforgeeks.org/dbms/?utm_source=chatgpt.com)**
+
+   * Comprehensive tutorials, examples, MCQs, and interview questions.
+
+2. **[Neso Academy – DBMS](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Beginner-friendly video lectures covering all DBMS concepts.
+
+3. **[Gate Smashers – DBMS Playlist](https://www.youtube.com/@GateSmashers?utm_source=chatgpt.com)**
+
+   * Great for B.Tech semester exams, GATE, and placement preparation.
+
+4. **[NPTEL – Database Management Systems](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT lectures with assignments and quizzes.
+
+5. **[SQLBolt](https://sqlbolt.com/?utm_source=chatgpt.com)**
+
+   * Interactive SQL lessons with hands-on practice.
+
+6. **[SQLite Tutorial](https://www.sqlitetutorial.net/?utm_source=chatgpt.com)**
+
+   * Learn SQL with practical examples.
+
+### Important topics to study
+
+* Introduction to DBMS
+* ER Model
+* Relational Model
+* SQL (DDL, DML, DCL, TCL)
+* Keys (Primary, Foreign, Candidate, Super)
+* Normalization (1NF, 2NF, 3NF, BCNF)
+* Functional Dependencies
+* Transactions
+* ACID Properties
+* Concurrency Control
+* Locking Protocols
+* Deadlocks
+* Indexing
+* B+ Trees
+* Query Processing and Optimization
+
+### Practice websites
+
+* [IndiaBIX – DBMS MCQs](https://www.indiabix.com/database/questions-and-answers/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/dbms/?utm_source=chatgpt.com)
+* [SQLBolt Practice](https://sqlbolt.com/?utm_source=chatgpt.com)
+
+### Best books
+
+* **Database System Concepts** – One of the most widely used DBMS textbooks.
+* **Fundamentals of Database Systems** – Excellent for understanding database concepts.
+* **SQL in 10 Minutes, Sams Teach Yourself** – Great for learning SQL quickly.
+
+These resources are ideal for **B.Tech CSE**, **GATE**, and **campus placement** preparation.
+
+
