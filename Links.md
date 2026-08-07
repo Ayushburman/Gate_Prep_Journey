@@ -124,5 +124,50 @@ If you're a **B.Tech CSE student**, I can also provide **unit-wise notes, previo
 
 
 
+Here are some of the best free resources to learn and practice **Probability and Statistics**:
+
+1. **[Khan Academy – Statistics and Probability](https://www.khanacademy.org/math/statistics-probability?utm_source=chatgpt.com)**
+
+   * Beginner-friendly lessons with quizzes and practice exercises.
+
+2. **[MIT OpenCourseWare – Introduction to Probability and Statistics](https://ocw.mit.edu/?utm_source=chatgpt.com)**
+
+   * Free university-level lectures, assignments, and exams.
+
+3. **[NPTEL](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT courses on Probability and Statistics with video lectures.
+
+4. **[GeeksforGeeks – Probability and Statistics](https://www.geeksforgeeks.org/probability-and-statistics/?utm_source=chatgpt.com)**
+
+   * Concise notes, formulas, and solved examples.
+
+5. **[Stat Trek](https://stattrek.com/?utm_source=chatgpt.com)**
+
+   * Easy-to-understand tutorials, calculators, and practice problems.
+
+### Important topics to study
+
+* Probability Basics
+* Conditional Probability
+* Bayes' Theorem
+* Random Variables
+* Probability Distributions (Binomial, Poisson, Normal)
+* Mean, Median, and Mode
+* Variance and Standard Deviation
+* Sampling Techniques
+* Correlation and Regression
+* Hypothesis Testing
+
+One of the most important concepts is **Bayes' Theorem**, which updates the probability of an event after observing new evidence:
+
+genui{"probability_combinatorics":{"type_id":"BAYES_THEOREM"}}
+
+This interactive visualization helps you understand how prior probabilities and evidence combine to produce a posterior probability.
+
+If you're a **B.Tech CSE student**, I can also provide **unit-wise notes, previous-year questions (PYQs), important formulas, MCQs, and numerical problems** for Probability and Statistics.
+
+
+
 
 
