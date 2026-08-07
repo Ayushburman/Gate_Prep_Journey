@@ -30,6 +30,8 @@ If you're targeting **TCS NQT, Accenture, Infosys, Wipro, or Cognizant**, I can 
 
 
 
+
+
 [1]: https://www.placementpreparation.io/blog/best-websites-to-learn-quantitative-aptitude/?utm_source=chatgpt.com "5 Best Websites to Learn Quantitative Aptitude for Placements"
 [2]: https://www.gopract.com/?utm_source=chatgpt.com "Examination Preparation with Free MCQ Tests | GoPract"
 [3]: https://tvaralabs.in/?utm_source=chatgpt.com "Tvara — Free Aptitude Practice | CAT, GMAT, SSC, Placements"
@@ -169,5 +171,56 @@ If you're a **B.Tech CSE student**, I can also provide **unit-wise notes, previo
 
 
 
+Here are some of the best free resources to learn and practice **Digital Logic**:
+
+1. **[Neso Academy – Digital Electronics](https://www.youtube.com/@NesoAcademy?utm_source=chatgpt.com)**
+
+   * Excellent YouTube lectures covering all Digital Logic concepts.
+   * Great for B.Tech and placement preparation.
+
+2. **[GeeksforGeeks – Digital Logic](https://www.geeksforgeeks.org/digital-logic/?utm_source=chatgpt.com)**
+
+   * Notes, solved examples, MCQs, and interview questions.
+
+3. **[NPTEL – Digital Circuits](https://nptel.ac.in/?utm_source=chatgpt.com)**
+
+   * IIT-level lectures with assignments and quizzes.
+
+4. **[TutorialsPoint – Digital Electronics](https://www.tutorialspoint.com/digital_electronics/index.htm?utm_source=chatgpt.com)**
+
+   * Beginner-friendly explanations with diagrams.
+
+5. **[All About Circuits – Digital Electronics](https://www.allaboutcircuits.com/textbook/digital/?utm_source=chatgpt.com)**
+
+   * Free textbook with detailed explanations and examples.
+
+### Important topics to study
+
+* Number Systems and Conversions
+* Boolean Algebra
+* Logic Gates
+* Karnaugh Maps (K-Maps)
+* Combinational Circuits
+
+  * Half Adder
+  * Full Adder
+  * Multiplexers (MUX)
+  * Demultiplexers (DEMUX)
+  * Encoders and Decoders
+* Sequential Circuits
+
+  * Flip-Flops (SR, JK, D, T)
+  * Registers
+  * Counters
+* Finite State Machines (FSM)
+* Memory Devices
+* Analog-to-Digital (ADC) and Digital-to-Analog (DAC) Converters
+
+### Practice websites
+
+* [IndiaBIX – Digital Electronics MCQs](https://www.indiabix.com/digital-electronics/questions-and-answers/?utm_source=chatgpt.com)
+* [GeeksforGeeks Practice](https://www.geeksforgeeks.org/digital-logic/?utm_source=chatgpt.com)
+
+If you're preparing for **B.Tech CSE placements (GATE, campus placements, or semester exams)**, I can also provide **unit-wise notes, PYQs, MCQs, Karnaugh Map shortcuts, and important Boolean algebra formulas**.
 
 
