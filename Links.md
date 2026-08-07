@@ -79,6 +79,50 @@ Here are some of the best websites to learn and practice **Discrete Mathematics*
 
 If you're studying **B.Tech CSE**, I can also provide **unit-wise notes, PYQs, and MCQs** for Discrete Mathematics.
 
+Here are some of the best free resources to learn and practice **Calculus**:
+
+1. **[Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1?utm_source=chatgpt.com)**
+
+   * Beginner-friendly videos and practice exercises.
+   * Covers limits, derivatives, integrals, and applications.
+
+2. **[MIT OpenCourseWare – Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/?utm_source=chatgpt.com)**
+
+   * Complete university-level course with lecture notes, videos, assignments, and exams.
+
+3. **[Paul's Online Math Notes – Calculus](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx?utm_source=chatgpt.com)**
+
+   * Clear explanations with many solved examples and practice problems.
+
+4. **[GeeksforGeeks – Calculus](https://www.geeksforgeeks.org/engineering-mathematics/calculus/?utm_source=chatgpt.com)**
+
+   * Concise notes and practice questions for engineering students.
+
+5. **[3Blue1Brown – Essence of Calculus](https://www.3blue1brown.com/topics/calculus?utm_source=chatgpt.com)**
+
+   * Excellent visual explanations that build intuition for derivatives and integrals.
+
+### Important topics to study
+
+* Limits and Continuity
+* Differentiation (Derivatives)
+* Applications of Derivatives
+* Indefinite and Definite Integrals
+* Applications of Integration
+* Partial Derivatives
+* Multiple Integrals
+* Differential Equations
+* Taylor and Maclaurin Series
+
+A fundamental idea in calculus is that the **derivative** is the slope of the tangent line, which can be understood as the limit of secant lines:
+
+genui{"calculus_analysis":{"type_id":"DERIVATIVE_AS_SECANT"}}
+
+This interactive visualization shows how the secant line approaches the tangent line as the two points come together.
+
+If you're a **B.Tech CSE student**, I can also provide **unit-wise notes, previous-year questions (PYQs), important formulas, and MCQs** for Calculus.
+
+
 
 
 
