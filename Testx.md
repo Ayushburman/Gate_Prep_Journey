@@ -18,4 +18,3 @@ ddd
 ff
 ddd
 f&
-ftg
