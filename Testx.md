@@ -8,4 +8,3 @@ bg
 ka
 ecd
 de
-cc
