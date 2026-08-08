@@ -15,6 +15,5 @@ f
 cff
 ccc
 ddd
-ff
 ddd
 f&
