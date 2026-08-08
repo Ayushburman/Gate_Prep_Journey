@@ -4,4 +4,3 @@ gcg
 hf
 vgh
 vcf
-bg 
