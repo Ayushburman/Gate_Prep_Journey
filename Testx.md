@@ -7,4 +7,3 @@ vcf
 bg 
 ka
 ecd
-de
