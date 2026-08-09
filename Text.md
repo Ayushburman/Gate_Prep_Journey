@@ -12,8 +12,6 @@ fcrc
 jn
 nb
 mkmj
-jj
-jnjn
 mim
  v f
  gfg
