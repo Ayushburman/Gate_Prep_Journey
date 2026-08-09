@@ -15,8 +15,6 @@ mkmj
 jj
 jnjn
 mim
-xcdcd
-gvg
  v f
  gfg
  bhvg
