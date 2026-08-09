@@ -5,7 +5,4 @@ nun
 jmmj
 m
 bhb
-unun
-juj
-mkmj
-mi
+unu
