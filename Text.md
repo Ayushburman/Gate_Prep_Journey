@@ -9,5 +9,3 @@ unun
 juj
 mkmj
 mi
- bhvg
- fv
