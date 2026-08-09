@@ -8,8 +8,6 @@ bhb
 unun
 juj
 mkmj
-mim
- v f
- gfg
+mi
  bhvg
  fv
