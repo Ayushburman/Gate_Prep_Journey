@@ -6,9 +6,7 @@ jmmj
 m
 bhb
 unun
-juju
-fcrc
-nb
+juj
 mkmj
 mim
  v f
