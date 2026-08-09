@@ -1,3 +1,4 @@
+
 Yes. For GATE CSE, the best approach is not to finish “all basic mathematics” first and then start GATE Maths. That can take months.
 
 Instead, use a two-layer system:
