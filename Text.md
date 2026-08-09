@@ -8,8 +8,6 @@ bhb
 unun
 juju
 fcrc
- hn
-jn
 nb
 mkmj
 mim
