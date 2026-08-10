@@ -1,13 +1,4 @@
 
-Yes. For GATE CSE, the best approach is not to finish “all basic mathematics” first and then start GATE Maths. That can take months.
-
-Instead, use a two-layer system:
-
-GATE Mathematics = main track
-Fundamentals = repair track running alongside it
-
-This lets you learn what GATE requires while filling gaps exactly when they become relevant.
-
 1. First understand what “maths for GATE CSE” actually means
 
 For GATE CSE, your mathematical foundation mainly supports:
