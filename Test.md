@@ -1,7 +1,7 @@
 
 ⸻
 
-My AIR <100 Strategy
+For AIR <100 Strategy
 
 Phase 1 — Build Concepts (4-6 months)
 
