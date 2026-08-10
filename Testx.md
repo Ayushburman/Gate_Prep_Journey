@@ -1,5 +1,4 @@
 
-1. First understand what “maths for GATE CSE” actually means
 
 For GATE CSE, your mathematical foundation mainly supports:
 
